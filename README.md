@@ -10,8 +10,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pheonix-18&show_icons=true&locale=en" alt="pheonix-18" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pheonix-18&" alt="pheonix-18" /></p>
-
-- 🔭 I’m currently working on [Blind-75 Coding Problems](https://github.com/pheonix-18/Blind-75)
+LinkLeap: Automate Easy Apply Jobs on LinkedIn](https://github.com/pheonix-18/linkedin-easy-apply-bot.git)
 
 - 🌱 I’m currently learning **Java 11, Spring, React, Angular**
 
